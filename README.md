@@ -1,2 +1,3 @@
 # Hand-written-Digit-Classification
-Accuracy = 99.26%
+10 Classes
+Digits: 0-9
